@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+# coc-nvim
+.cache
+compile_commands.json
